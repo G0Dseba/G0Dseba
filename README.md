@@ -16,8 +16,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original-wordmark.svg" alt="excel" width="40" height="40"/> </a>
-  <a href="https://visualstudio.microsoft.com/vb/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vb/vb-original-wordmark.svg" alt="vb" width="40" height="40"/> </a>
 </p><br>
 
 <hr width="36%" >
@@ -29,8 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=G0Dseba&show_icons=true&theme=dark&locale=en&layout=compact" alt="G0Dseba" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=G0Dseba&show_icons=true&theme=dark&locale=en" alt="G0Dseba" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=G0Dseba&theme=dark" alt="G0Dseba" /></p>
 <br><br><br><br><br><br><br><br><br><br>
@@ -48,6 +44,3 @@
 
 
 [G0Dseba](https://github.com/G0Dseba)
-
-Last Edited on: 01/01/2025
-
