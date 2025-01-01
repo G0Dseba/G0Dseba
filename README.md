@@ -28,7 +28,7 @@
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=G0Dseba&show_icons=true&theme=dark&locale=en" alt="G0Dseba" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
