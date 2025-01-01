@@ -1,86 +1,53 @@
-# ¡Hola! Soy Sebastián Jiménez 🌟
-# Hi! I'm Sebastián Jiménez 🌟
+<h1 align="center">Hi 👋, I'm Sebastián Jiménez</h1>
 
-## Español
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🔭 Actualmente estoy trabajando en **M6prueba**
+🌱 I’m currently learning **RUBY ON RAILS**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-📖 Formación profesional en: 
-- Analista programador en Inacap
-- Curso de Ruby on Rails en Inforcap
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original-wordmark.svg" alt="excel" width="40" height="40"/> </a>
+  <a href="https://visualstudio.microsoft.com/vb/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vb/vb-original-wordmark.svg" alt="vb" width="40" height="40"/> </a>
+</p><br>
 
-🌍 Soy de Santiago, Chile
+<hr width="36%" >
 
-👨‍💻 Me dedico a **Conserje** actualmente.
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
-## Experiencias previas
-He trabajado haciendo consultas con aplicaciones que transforman información de bases de datos y las convergen para crear nuevas o hacer migraciones. Tengo habilidades en:
-- Java
-- JavaScript
-- TypeScript
-- Ruby
-- HTML5 y CSS
-- Frameworks como Rails y Angular
-- Excel y Visual Basic
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=G0Dseba&show_icons=true&theme=dark&locale=en&layout=compact" alt="G0Dseba" /></p>
 
-## Contacto
-Puedes contactarme a través de:
-- **Correo**: [sebastian.ijq@gmail.com](mailto:sebastian.ijq@gmail.com)
-- **Celular**: +56977055488
-- **GitHub**: [https://github.com/G0Dseba?tab=repositories](https://github.com/G0Dseba?tab=repositories)
-- **LinkedIn**: [https://www.linkedin.com/in/sebastián-jiménez-00b237219/](https://www.linkedin.com/in/sebastián-jiménez-00b237219/)
-- **Instagram**: [g0dseba](https://www.instagram.com/g0dseba?igsh=NzFnNXd3OGtkdHV5)
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=G0Dseba&show_icons=true&theme=dark&locale=en" alt="G0Dseba" /></p>
+<br><br><br><br><br><br><br><br><br><br>
 
-## Lenguajes y Herramientas:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-5A69AE?style=flat-square&logo=visual-basic&logoColor=white)
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=G0Dseba&theme=dark" alt="G0Dseba" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sebastián-jiménez-00b237219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastián-jiménez" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
+<a href="https://instagram.com/g0dseba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g0dseba" height="30" width="40" /></a>
+</p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=G0Dseba&label=Profile%20views&color=0e75b6&style=flat" alt="G0Dseba" /> </p>
 
-## English
+------
 
-🔭 I’m currently working on **M6prueba**
 
-📖 My professional training includes: 
-- Analyst programmer at Inacap
-- Ruby on Rails course at Inforcap
+[G0Dseba](https://github.com/G0Dseba)
 
-🌍 I'm from Santiago, Chile
+Last Edited on: 01/01/2025
 
-👨‍💻 Currently, I work as a **concierge**.
-
-## Previous Experiences
-I have worked on queries with applications that transform database information and converge them to create new ones or perform migrations. I have skills in:
-- Java
-- JavaScript
-- TypeScript
-- Ruby
-- HTML5 and CSS
-- Frameworks such as Rails and Angular
-- Excel and Visual Basic
-
-## Contact
-You can reach me at:
-- **Email**: [sebastian.ijq@gmail.com](mailto:sebastian.ijq@gmail.com)
-- **Phone**: +56977055488
-- **GitHub**: [https://github.com/G0Dseba?tab=repositories](https://github.com/G0Dseba?tab=repositories)
-- **LinkedIn**: [https://www.linkedin.com/in/sebastián-jiménez-00b237219/](https://www.linkedin.com/in/sebastián-jiménez-00b237219/)
-- **Instagram**: [g0dseba](https://www.instagram.com/g0dseba?igsh=NzFnNXd3OGtkdHV5)
-
-## Languages and Tools:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-5A69AE?style=flat-square&logo=visual-basic&logoColor=white)
